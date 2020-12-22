@@ -1,4 +1,9 @@
-% Stator Sizing Comparison
+%{
+    Stator Sizing Comparison
+    Created by: Jacob Lawson
+    Date: 02/12/2020
+%}  
+
 % Power is based on Stator Volume
 % Volume = pi*r^2*L
 % r = stator radius

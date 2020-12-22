@@ -1,3 +1,9 @@
+%{
+    Lipo Battery Requirements calculator for a mini UAV
+    Created by: Jacob Lawson
+    Date: 02/12/2020
+%}
+
 % Input data
 Nm = 3; % Number of Motors
 ImM = 9.3; % Max Motor Current in Amps
